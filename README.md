@@ -1,6 +1,6 @@
 # Ragnarock - RuneColorVR Mod
 
-**Lua script to change Rune Colors in Ragnarock VR.**
+**Lua script to change Rune Colors in Ragnarock VR + Flat.**
 
 # Features
 
