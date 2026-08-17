@@ -22,7 +22,7 @@ Contents from UE4SS zip go into your Win64 directory of your Ragnarock installat
 
 # Installing Mod
 
-1. Extract [RuneColorVRMod](RuneColorVRMod.zip) and place into the Mods-directory of UE4SS, for example:<br />
+1. Extract [RuneColorMod](RuneColorMod.zip) and place into the Mods-directory of UE4SS, for example:<br />
 ```C:\Program Files (x86)\Steam\steamapps\common\Ragnarock\Ragnarock\Binaries\Win64\ue4ss\Mods```
 
 2. Activate Mod<br />
