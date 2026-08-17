@@ -4,7 +4,7 @@
 
 # Features
 
-- Change VR rune colors via simple config file editing
+- Change rune colors via simple config file editing
 - 20+ named color presets included (`rune_palette.cfg`)
 - Custom color mode with full HEX control (body, glow, emissive boost)
 - Rainbow mode — runes continuously cycle through colors
