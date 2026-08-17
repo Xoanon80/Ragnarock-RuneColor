@@ -2,11 +2,6 @@
 
 **Lua script to change Rune Colors in Ragnarock VR.**
 
-> [!WARNING]
-> This works only in VR mode, Flat mode would crash.
-> If you play both, make sure you deactivate the Mod whenever you start the Flat version.
-> This is for the Steam PCVR version of Ragnarock.
-
 # Features
 
 - Change VR rune colors via simple config file editing
