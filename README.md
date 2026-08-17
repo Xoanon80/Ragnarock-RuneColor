@@ -1,4 +1,4 @@
-# Ragnarock - RuneColorVR Mod
+# Ragnarock - RuneColor Mod
 
 **Lua script to change Rune Colors in Ragnarock VR + Flat.**
 
@@ -31,7 +31,7 @@ It is located in the same directory as above.
 
 # Configuration
 
-Edit the active_color.cfg in your RuneColorVR mod directory to your liking.<br />
+Edit the active_color.cfg in your RuneColor mod directory to your liking.<br />
 
 **Options** are:<br />
 
